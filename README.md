@@ -52,9 +52,5 @@ myCobot280/
 ---
 
 <div align="center">
-  <strong>myCobot280 | Repositorio mantenido por <a href="https://github.com/Venuz25">Areli Guevara</a></strong>
-  <br><br>
-  <a href="https://github.com/Venuz25/myCobot280/stargazers"><img src="https://img.shields.io/github/stars/Venuz25/myCobot280?color=yellow&label=Star&message=" alt="Star"></a>
-  <a href="https://github.com/Venuz25/myCobot280/forks"><img src="https://img.shields.io/github/forks/Venuz25/myCobot280?color=blue&label=Fork&message=" alt="Fork"></a>
-  <a href="https://github.com/Venuz25/myCobot280/issues"><img src="https://img.shields.io/github/issues/Venuz25/myCobot280?color=red&label=Issue&message=" alt="Issue"></a>
+  <strong>© 2025 | <a href="https://github.com/Venuz25">Areli Guevara</a></strong>
 </div>
